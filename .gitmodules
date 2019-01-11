@@ -1,0 +1,3 @@
+[submodule "vkBot/pBotWrapper"]
+	path = vkBot/pBotWrapper
+	url = https://github.com/x0152/pBotWrapper
